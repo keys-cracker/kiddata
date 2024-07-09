@@ -1,0 +1,1163 @@
+Folder PATH listing for volume Games
+Volume serial number is 08FC-8ED0
+E:.
++---D-Day
+¦   +---fork
+¦   +---lib
+¦       +---7-Zip
+¦       ¦   +---Lang
+¦       +---git
+¦           +---bin
+¦           +---cmd
+¦           +---dev
+¦           ¦   +---mqueue
+¦           ¦   +---shm
+¦           +---etc
+¦           ¦   +---pkcs11
+¦           ¦   +---pki
+¦           ¦   ¦   +---ca-trust
+¦           ¦   ¦       +---extracted
+¦           ¦   ¦           +---java
+¦           ¦   ¦           +---openssl
+¦           ¦   ¦           +---pem
+¦           ¦   +---profile.d
+¦           ¦   +---ssh
+¦           +---mingw64
+¦           ¦   +---bin
+¦           ¦   +---doc
+¦           ¦   ¦   +---git-credential-manager
+¦           ¦   +---etc
+¦           ¦   ¦   +---pkcs11
+¦           ¦   ¦   +---pki
+¦           ¦   ¦   ¦   +---ca-trust
+¦           ¦   ¦   ¦       +---extracted
+¦           ¦   ¦   ¦           +---java
+¦           ¦   ¦   ¦           +---openssl
+¦           ¦   ¦   ¦           +---pem
+¦           ¦   ¦   +---ssl
+¦           ¦   ¦       +---certs
+¦           ¦   ¦       +---misc
+¦           ¦   +---lib
+¦           ¦   ¦   +---engines-3
+¦           ¦   ¦   +---ossl-modules
+¦           ¦   ¦   +---p11-kit
+¦           ¦   ¦   +---pkcs11
+¦           ¦   ¦   +---reg1.3
+¦           ¦   ¦   +---tcl8
+¦           ¦   ¦   ¦   +---8.4
+¦           ¦   ¦   ¦   ¦   +---platform
+¦           ¦   ¦   ¦   +---8.5
+¦           ¦   ¦   ¦   +---8.6
+¦           ¦   ¦   ¦       +---tdbc
+¦           ¦   ¦   +---tcl8.6
+¦           ¦   ¦   ¦   +---encoding
+¦           ¦   ¦   ¦   +---http1.0
+¦           ¦   ¦   ¦   +---msgs
+¦           ¦   ¦   ¦   +---opt0.4
+¦           ¦   ¦   ¦   +---tzdata
+¦           ¦   ¦   ¦       +---Africa
+¦           ¦   ¦   ¦       +---America
+¦           ¦   ¦   ¦       ¦   +---Argentina
+¦           ¦   ¦   ¦       ¦   +---Indiana
+¦           ¦   ¦   ¦       ¦   +---Kentucky
+¦           ¦   ¦   ¦       ¦   +---North_Dakota
+¦           ¦   ¦   ¦       +---Antarctica
+¦           ¦   ¦   ¦       +---Arctic
+¦           ¦   ¦   ¦       +---Asia
+¦           ¦   ¦   ¦       +---Atlantic
+¦           ¦   ¦   ¦       +---Australia
+¦           ¦   ¦   ¦       +---Brazil
+¦           ¦   ¦   ¦       +---Canada
+¦           ¦   ¦   ¦       +---Chile
+¦           ¦   ¦   ¦       +---Etc
+¦           ¦   ¦   ¦       +---Europe
+¦           ¦   ¦   ¦       +---Indian
+¦           ¦   ¦   ¦       +---Mexico
+¦           ¦   ¦   ¦       +---Pacific
+¦           ¦   ¦   ¦       +---SystemV
+¦           ¦   ¦   ¦       +---US
+¦           ¦   ¦   +---thread2.8.8
+¦           ¦   ¦   +---tk8.6
+¦           ¦   ¦       +---demos
+¦           ¦   ¦       ¦   +---images
+¦           ¦   ¦       +---images
+¦           ¦   ¦       +---msgs
+¦           ¦   ¦       +---ttk
+¦           ¦   +---libexec
+¦           ¦   ¦   +---git-core
+¦           ¦   ¦   ¦   +---mergetools
+¦           ¦   ¦   +---p11-kit
+¦           ¦   +---share
+¦           ¦       +---antiword
+¦           ¦       +---doc
+¦           ¦       ¦   +---connect
+¦           ¦       ¦   +---expat
+¦           ¦       ¦   +---git-doc
+¦           ¦       ¦   ¦   +---howto
+¦           ¦       ¦   ¦   +---technical
+¦           ¦       ¦   +---git-lfs
+¦           ¦       ¦   +---gnutls
+¦           ¦       ¦   +---nghttp2
+¦           ¦       ¦   +---xz
+¦           ¦       ¦       +---api
+¦           ¦       ¦       +---examples
+¦           ¦       +---git
+¦           ¦       ¦   +---completion
+¦           ¦       +---git-core
+¦           ¦       ¦   +---templates
+¦           ¦       ¦       +---hooks
+¦           ¦       ¦       +---info
+¦           ¦       +---git-gui
+¦           ¦       ¦   +---lib
+¦           ¦       +---licenses
+¦           ¦       ¦   +---brotli
+¦           ¦       ¦   +---bzip2
+¦           ¦       ¦   +---c-ares
+¦           ¦       ¦   +---curl
+¦           ¦       ¦   +---expat
+¦           ¦       ¦   +---gcc-libs
+¦           ¦       ¦   +---gettext-runtime
+¦           ¦       ¦   ¦   +---intl
+¦           ¦       ¦   ¦   +---libasprintf
+¦           ¦       ¦   +---libffi
+¦           ¦       ¦   +---libiconv
+¦           ¦       ¦   ¦   +---libcharset
+¦           ¦       ¦   +---libpsl
+¦           ¦       ¦   +---libssh2
+¦           ¦       ¦   +---libsystre
+¦           ¦       ¦   +---libtasn1
+¦           ¦       ¦   +---libtre
+¦           ¦       ¦   +---libunistring
+¦           ¦       ¦   +---libwinpthread
+¦           ¦       ¦   +---libzip
+¦           ¦       ¦   +---nghttp2
+¦           ¦       ¦   +---openssl
+¦           ¦       ¦   +---pcre
+¦           ¦       ¦   +---pcre2
+¦           ¦       ¦   +---wineditline
+¦           ¦       ¦   +---xz
+¦           ¦       ¦   +---zlib
+¦           ¦       ¦   +---zstd
+¦           ¦       +---p11-kit
+¦           ¦       ¦   +---modules
+¦           ¦       +---perl5
+¦           ¦       ¦   +---FromCPAN
+¦           ¦       ¦   ¦   +---Mail
+¦           ¦       ¦   +---Git
+¦           ¦       ¦       +---LoadCPAN
+¦           ¦       ¦       ¦   +---Mail
+¦           ¦       ¦       +---SVN
+¦           ¦       ¦           +---Memoize
+¦           ¦       +---pki
+¦           ¦           +---ca-trust-legacy
+¦           ¦           +---ca-trust-source
+¦           +---tmp
+¦           +---usr
+¦               +---bin
+¦               ¦   +---core_perl
+¦               ¦   +---vendor_perl
+¦               +---etc
+¦               ¦   +---profile.d
+¦               +---lib
+¦               ¦   +---awk
+¦               ¦   +---coreutils
+¦               ¦   +---gawk
+¦               ¦   +---gnupg
+¦               ¦   +---openssl
+¦               ¦   ¦   +---engines-3
+¦               ¦   +---p11-kit
+¦               ¦   +---perl5
+¦               ¦   ¦   +---core_perl
+¦               ¦   ¦   ¦   +---auto
+¦               ¦   ¦   ¦   ¦   +---attributes
+¦               ¦   ¦   ¦   ¦   +---B
+¦               ¦   ¦   ¦   ¦   +---Compress
+¦               ¦   ¦   ¦   ¦   ¦   +---Raw
+¦               ¦   ¦   ¦   ¦   ¦       +---Bzip2
+¦               ¦   ¦   ¦   ¦   ¦       +---Zlib
+¦               ¦   ¦   ¦   ¦   +---Cwd
+¦               ¦   ¦   ¦   ¦   +---Data
+¦               ¦   ¦   ¦   ¦   ¦   +---Dumper
+¦               ¦   ¦   ¦   ¦   +---Devel
+¦               ¦   ¦   ¦   ¦   ¦   +---Peek
+¦               ¦   ¦   ¦   ¦   +---Digest
+¦               ¦   ¦   ¦   ¦   ¦   +---MD5
+¦               ¦   ¦   ¦   ¦   ¦   +---SHA
+¦               ¦   ¦   ¦   ¦   +---Encode
+¦               ¦   ¦   ¦   ¦   ¦   +---Byte
+¦               ¦   ¦   ¦   ¦   ¦   +---CN
+¦               ¦   ¦   ¦   ¦   ¦   +---EBCDIC
+¦               ¦   ¦   ¦   ¦   ¦   +---JP
+¦               ¦   ¦   ¦   ¦   ¦   +---KR
+¦               ¦   ¦   ¦   ¦   ¦   +---Symbol
+¦               ¦   ¦   ¦   ¦   ¦   +---TW
+¦               ¦   ¦   ¦   ¦   ¦   +---Unicode
+¦               ¦   ¦   ¦   ¦   +---Fcntl
+¦               ¦   ¦   ¦   ¦   +---File
+¦               ¦   ¦   ¦   ¦   ¦   +---DosGlob
+¦               ¦   ¦   ¦   ¦   ¦   +---Glob
+¦               ¦   ¦   ¦   ¦   +---Filter
+¦               ¦   ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   ¦   ¦       +---Call
+¦               ¦   ¦   ¦   ¦   +---Hash
+¦               ¦   ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   ¦   ¦       +---FieldHash
+¦               ¦   ¦   ¦   ¦   +---I18N
+¦               ¦   ¦   ¦   ¦   ¦   +---Langinfo
+¦               ¦   ¦   ¦   ¦   +---IO
+¦               ¦   ¦   ¦   ¦   +---IPC
+¦               ¦   ¦   ¦   ¦   ¦   +---SysV
+¦               ¦   ¦   ¦   ¦   +---List
+¦               ¦   ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   ¦   +---Math
+¦               ¦   ¦   ¦   ¦   ¦   +---BigInt
+¦               ¦   ¦   ¦   ¦   ¦       +---FastCalc
+¦               ¦   ¦   ¦   ¦   +---MIME
+¦               ¦   ¦   ¦   ¦   ¦   +---Base64
+¦               ¦   ¦   ¦   ¦   +---mro
+¦               ¦   ¦   ¦   ¦   +---NDBM_File
+¦               ¦   ¦   ¦   ¦   +---Opcode
+¦               ¦   ¦   ¦   ¦   +---PerlIO
+¦               ¦   ¦   ¦   ¦   ¦   +---encoding
+¦               ¦   ¦   ¦   ¦   ¦   +---mmap
+¦               ¦   ¦   ¦   ¦   ¦   +---scalar
+¦               ¦   ¦   ¦   ¦   ¦   +---via
+¦               ¦   ¦   ¦   ¦   +---POSIX
+¦               ¦   ¦   ¦   ¦   +---re
+¦               ¦   ¦   ¦   ¦   +---SDBM_File
+¦               ¦   ¦   ¦   ¦   +---Socket
+¦               ¦   ¦   ¦   ¦   +---Storable
+¦               ¦   ¦   ¦   ¦   +---Sys
+¦               ¦   ¦   ¦   ¦   ¦   +---Hostname
+¦               ¦   ¦   ¦   ¦   ¦   +---Syslog
+¦               ¦   ¦   ¦   ¦   +---threads
+¦               ¦   ¦   ¦   ¦   ¦   +---shared
+¦               ¦   ¦   ¦   ¦   +---Time
+¦               ¦   ¦   ¦   ¦   ¦   +---HiRes
+¦               ¦   ¦   ¦   ¦   ¦   +---Piece
+¦               ¦   ¦   ¦   ¦   +---Unicode
+¦               ¦   ¦   ¦   ¦   ¦   +---Collate
+¦               ¦   ¦   ¦   ¦   ¦   +---Normalize
+¦               ¦   ¦   ¦   ¦   +---Win32
+¦               ¦   ¦   ¦   ¦   +---Win32API
+¦               ¦   ¦   ¦   ¦   ¦   +---File
+¦               ¦   ¦   ¦   ¦   +---Win32CORE
+¦               ¦   ¦   ¦   ¦   +---XS
+¦               ¦   ¦   ¦   ¦       +---APItest
+¦               ¦   ¦   ¦   ¦       +---Typemap
+¦               ¦   ¦   ¦   +---B
+¦               ¦   ¦   ¦   +---Compress
+¦               ¦   ¦   ¦   ¦   +---Raw
+¦               ¦   ¦   ¦   +---CORE
+¦               ¦   ¦   ¦   +---Data
+¦               ¦   ¦   ¦   +---Devel
+¦               ¦   ¦   ¦   +---Digest
+¦               ¦   ¦   ¦   +---Encode
+¦               ¦   ¦   ¦   ¦   +---CN
+¦               ¦   ¦   ¦   ¦   +---JP
+¦               ¦   ¦   ¦   ¦   +---KR
+¦               ¦   ¦   ¦   ¦   +---MIME
+¦               ¦   ¦   ¦   ¦   ¦   +---Header
+¦               ¦   ¦   ¦   ¦   +---Unicode
+¦               ¦   ¦   ¦   +---File
+¦               ¦   ¦   ¦   ¦   +---Spec
+¦               ¦   ¦   ¦   +---Filter
+¦               ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   +---Hash
+¦               ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   +---I18N
+¦               ¦   ¦   ¦   +---IO
+¦               ¦   ¦   ¦   ¦   +---Socket
+¦               ¦   ¦   ¦   +---IPC
+¦               ¦   ¦   ¦   +---List
+¦               ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   +---Math
+¦               ¦   ¦   ¦   ¦   +---BigInt
+¦               ¦   ¦   ¦   +---MIME
+¦               ¦   ¦   ¦   +---PerlIO
+¦               ¦   ¦   ¦   +---Scalar
+¦               ¦   ¦   ¦   +---Sub
+¦               ¦   ¦   ¦   +---Sys
+¦               ¦   ¦   ¦   +---threads
+¦               ¦   ¦   ¦   +---Time
+¦               ¦   ¦   ¦   +---Unicode
+¦               ¦   ¦   ¦   ¦   +---Collate
+¦               ¦   ¦   ¦   +---Win32API
+¦               ¦   ¦   +---vendor_perl
+¦               ¦   ¦       +---auto
+¦               ¦   ¦       ¦   +---Clone
+¦               ¦   ¦       ¦   +---HTML
+¦               ¦   ¦       ¦   ¦   +---Parser
+¦               ¦   ¦       ¦   +---Net
+¦               ¦   ¦       ¦   ¦   +---SSLeay
+¦               ¦   ¦       ¦   +---SVN
+¦               ¦   ¦       ¦   ¦   +---_Client
+¦               ¦   ¦       ¦   ¦   +---_Core
+¦               ¦   ¦       ¦   ¦   +---_Delta
+¦               ¦   ¦       ¦   ¦   +---_Fs
+¦               ¦   ¦       ¦   ¦   +---_Ra
+¦               ¦   ¦       ¦   ¦   +---_Repos
+¦               ¦   ¦       ¦   ¦   +---_Wc
+¦               ¦   ¦       ¦   +---Term
+¦               ¦   ¦       ¦       +---ReadKey
+¦               ¦   ¦       +---HTML
+¦               ¦   ¦       +---Net
+¦               ¦   ¦       ¦   +---SSLeay
+¦               ¦   ¦       +---SVN
+¦               ¦   ¦       +---Term
+¦               ¦   +---pkcs11
+¦               ¦   +---sasl2
+¦               ¦   +---ssh
+¦               ¦   +---tar
+¦               ¦   +---terminfo
+¦               ¦       +---63
+¦               ¦       +---64
+¦               ¦       +---6d
+¦               ¦       +---73
+¦               ¦       +---78
+¦               +---libexec
+¦               ¦   +---p11-kit
+¦               +---share
+¦               ¦   +---applications
+¦               ¦   +---awk
+¦               ¦   +---cygwin
+¦               ¦   +---fish
+¦               ¦   ¦   +---vendor_conf.d
+¦               ¦   +---git
+¦               ¦   +---gnupg
+¦               ¦   +---gtk-doc
+¦               ¦   ¦   +---html
+¦               ¦   ¦       +---p11-kit
+¦               ¦   +---icons
+¦               ¦   ¦   +---hicolor
+¦               ¦   ¦   ¦   +---48x48
+¦               ¦   ¦   ¦       +---apps
+¦               ¦   ¦   +---locolor
+¦               ¦   ¦       +---16x16
+¦               ¦   ¦       ¦   +---apps
+¦               ¦   ¦       +---32x32
+¦               ¦   ¦           +---apps
+¦               ¦   +---licenses
+¦               ¦   ¦   +---dos2unix
+¦               ¦   ¦   +---expat
+¦               ¦   ¦   +---file
+¦               ¦   ¦   +---gcc-libs
+¦               ¦   ¦   +---libassuan
+¦               ¦   ¦   +---libedit
+¦               ¦   ¦   +---libffi
+¦               ¦   ¦   +---libksba
+¦               ¦   ¦   +---libnghttp2
+¦               ¦   ¦   +---libopenssl
+¦               ¦   ¦   +---libpsl
+¦               ¦   ¦   +---libsasl
+¦               ¦   ¦   +---libsqlite
+¦               ¦   ¦   +---libssh2
+¦               ¦   ¦   +---mintty
+¦               ¦   ¦   +---ncurses
+¦               ¦   ¦   +---openssh
+¦               ¦   ¦   +---p11-kit
+¦               ¦   ¦   +---perl-Net-SSLeay
+¦               ¦   ¦   +---perl-TermReadKey
+¦               ¦   ¦   +---perl-Try-Tiny
+¦               ¦   ¦   +---unzip
+¦               ¦   ¦   +---vim
+¦               ¦   ¦   +---zlib
+¦               ¦   +---makepkg-template
+¦               ¦   +---mintty
+¦               ¦   ¦   +---lang
+¦               ¦   ¦   +---themes
+¦               ¦   +---misc
+¦               ¦   +---nano
+¦               ¦   ¦   +---extra
+¦               ¦   +---p11-kit
+¦               ¦   ¦   +---modules
+¦               ¦   +---perl5
+¦               ¦   ¦   +---core_perl
+¦               ¦   ¦   ¦   +---App
+¦               ¦   ¦   ¦   ¦   +---Prove
+¦               ¦   ¦   ¦   ¦       +---State
+¦               ¦   ¦   ¦   ¦           +---Result
+¦               ¦   ¦   ¦   +---Archive
+¦               ¦   ¦   ¦   ¦   +---Tar
+¦               ¦   ¦   ¦   +---Attribute
+¦               ¦   ¦   ¦   +---autodie
+¦               ¦   ¦   ¦   ¦   +---exception
+¦               ¦   ¦   ¦   ¦   +---Scope
+¦               ¦   ¦   ¦   +---B
+¦               ¦   ¦   ¦   +---Carp
+¦               ¦   ¦   ¦   +---Class
+¦               ¦   ¦   ¦   +---Compress
+¦               ¦   ¦   ¦   +---Config
+¦               ¦   ¦   ¦   ¦   +---Perl
+¦               ¦   ¦   ¦   +---DBM_Filter
+¦               ¦   ¦   ¦   +---Devel
+¦               ¦   ¦   ¦   +---Digest
+¦               ¦   ¦   ¦   +---Encode
+¦               ¦   ¦   ¦   +---encoding
+¦               ¦   ¦   ¦   +---Exporter
+¦               ¦   ¦   ¦   +---File
+¦               ¦   ¦   ¦   +---Filter
+¦               ¦   ¦   ¦   +---Getopt
+¦               ¦   ¦   ¦   +---HTTP
+¦               ¦   ¦   ¦   +---I18N
+¦               ¦   ¦   ¦   ¦   +---LangTags
+¦               ¦   ¦   ¦   +---IO
+¦               ¦   ¦   ¦   ¦   +---Compress
+¦               ¦   ¦   ¦   ¦   ¦   +---Adapter
+¦               ¦   ¦   ¦   ¦   ¦   +---Base
+¦               ¦   ¦   ¦   ¦   ¦   +---Gzip
+¦               ¦   ¦   ¦   ¦   ¦   +---Zip
+¦               ¦   ¦   ¦   ¦   ¦   +---Zlib
+¦               ¦   ¦   ¦   ¦   +---Socket
+¦               ¦   ¦   ¦   ¦   +---Uncompress
+¦               ¦   ¦   ¦   ¦       +---Adapter
+¦               ¦   ¦   ¦   +---IPC
+¦               ¦   ¦   ¦   +---JSON
+¦               ¦   ¦   ¦   ¦   +---PP
+¦               ¦   ¦   ¦   +---Math
+¦               ¦   ¦   ¦   ¦   +---BigFloat
+¦               ¦   ¦   ¦   ¦   +---BigInt
+¦               ¦   ¦   ¦   ¦   +---BigRat
+¦               ¦   ¦   ¦   +---Memoize
+¦               ¦   ¦   ¦   +---Module
+¦               ¦   ¦   ¦   ¦   +---CoreList
+¦               ¦   ¦   ¦   ¦   +---Load
+¦               ¦   ¦   ¦   +---Net
+¦               ¦   ¦   ¦   ¦   +---FTP
+¦               ¦   ¦   ¦   +---overload
+¦               ¦   ¦   ¦   +---Params
+¦               ¦   ¦   ¦   +---Parse
+¦               ¦   ¦   ¦   ¦   +---CPAN
+¦               ¦   ¦   ¦   +---Perl
+¦               ¦   ¦   ¦   +---PerlIO
+¦               ¦   ¦   ¦   ¦   +---via
+¦               ¦   ¦   ¦   +---Search
+¦               ¦   ¦   ¦   +---Term
+¦               ¦   ¦   ¦   +---Test
+¦               ¦   ¦   ¦   ¦   +---Builder
+¦               ¦   ¦   ¦   ¦   ¦   +---IO
+¦               ¦   ¦   ¦   ¦   ¦   +---Tester
+¦               ¦   ¦   ¦   ¦   +---Tester
+¦               ¦   ¦   ¦   ¦   +---use
+¦               ¦   ¦   ¦   +---Test2
+¦               ¦   ¦   ¦   ¦   +---API
+¦               ¦   ¦   ¦   ¦   ¦   +---InterceptResult
+¦               ¦   ¦   ¦   ¦   +---Event
+¦               ¦   ¦   ¦   ¦   ¦   +---TAP
+¦               ¦   ¦   ¦   ¦   +---EventFacet
+¦               ¦   ¦   ¦   ¦   ¦   +---Info
+¦               ¦   ¦   ¦   ¦   +---Formatter
+¦               ¦   ¦   ¦   ¦   +---Hub
+¦               ¦   ¦   ¦   ¦   ¦   +---Interceptor
+¦               ¦   ¦   ¦   ¦   +---IPC
+¦               ¦   ¦   ¦   ¦   ¦   +---Driver
+¦               ¦   ¦   ¦   ¦   +---Tools
+¦               ¦   ¦   ¦   ¦   +---Util
+¦               ¦   ¦   ¦   +---Text
+¦               ¦   ¦   ¦   +---Thread
+¦               ¦   ¦   ¦   +---Tie
+¦               ¦   ¦   ¦   ¦   +---Hash
+¦               ¦   ¦   ¦   +---Time
+¦               ¦   ¦   ¦   +---unicore
+¦               ¦   ¦   ¦   ¦   +---lib
+¦               ¦   ¦   ¦   ¦   ¦   +---Age
+¦               ¦   ¦   ¦   ¦   ¦   +---Alpha
+¦               ¦   ¦   ¦   ¦   ¦   +---Bc
+¦               ¦   ¦   ¦   ¦   ¦   +---BidiC
+¦               ¦   ¦   ¦   ¦   ¦   +---BidiM
+¦               ¦   ¦   ¦   ¦   ¦   +---Blk
+¦               ¦   ¦   ¦   ¦   ¦   +---Bpt
+¦               ¦   ¦   ¦   ¦   ¦   +---Cased
+¦               ¦   ¦   ¦   ¦   ¦   +---Ccc
+¦               ¦   ¦   ¦   ¦   ¦   +---CE
+¦               ¦   ¦   ¦   ¦   ¦   +---CI
+¦               ¦   ¦   ¦   ¦   ¦   +---CompEx
+¦               ¦   ¦   ¦   ¦   ¦   +---CWCF
+¦               ¦   ¦   ¦   ¦   ¦   +---CWCM
+¦               ¦   ¦   ¦   ¦   ¦   +---CWKCF
+¦               ¦   ¦   ¦   ¦   ¦   +---CWL
+¦               ¦   ¦   ¦   ¦   ¦   +---CWT
+¦               ¦   ¦   ¦   ¦   ¦   +---CWU
+¦               ¦   ¦   ¦   ¦   ¦   +---Dash
+¦               ¦   ¦   ¦   ¦   ¦   +---Dep
+¦               ¦   ¦   ¦   ¦   ¦   +---DI
+¦               ¦   ¦   ¦   ¦   ¦   +---Dia
+¦               ¦   ¦   ¦   ¦   ¦   +---Dt
+¦               ¦   ¦   ¦   ¦   ¦   +---Ea
+¦               ¦   ¦   ¦   ¦   ¦   +---EBase
+¦               ¦   ¦   ¦   ¦   ¦   +---EComp
+¦               ¦   ¦   ¦   ¦   ¦   +---Emoji
+¦               ¦   ¦   ¦   ¦   ¦   +---EPres
+¦               ¦   ¦   ¦   ¦   ¦   +---Ext
+¦               ¦   ¦   ¦   ¦   ¦   +---ExtPict
+¦               ¦   ¦   ¦   ¦   ¦   +---Gc
+¦               ¦   ¦   ¦   ¦   ¦   +---GCB
+¦               ¦   ¦   ¦   ¦   ¦   +---GrBase
+¦               ¦   ¦   ¦   ¦   ¦   +---GrExt
+¦               ¦   ¦   ¦   ¦   ¦   +---Hex
+¦               ¦   ¦   ¦   ¦   ¦   +---Hst
+¦               ¦   ¦   ¦   ¦   ¦   +---Hyphen
+¦               ¦   ¦   ¦   ¦   ¦   +---IDC
+¦               ¦   ¦   ¦   ¦   ¦   +---Ideo
+¦               ¦   ¦   ¦   ¦   ¦   +---IDS
+¦               ¦   ¦   ¦   ¦   ¦   +---IdStatus
+¦               ¦   ¦   ¦   ¦   ¦   +---IdType
+¦               ¦   ¦   ¦   ¦   ¦   +---In
+¦               ¦   ¦   ¦   ¦   ¦   +---InPC
+¦               ¦   ¦   ¦   ¦   ¦   +---InSC
+¦               ¦   ¦   ¦   ¦   ¦   +---Jg
+¦               ¦   ¦   ¦   ¦   ¦   +---Jt
+¦               ¦   ¦   ¦   ¦   ¦   +---Lb
+¦               ¦   ¦   ¦   ¦   ¦   +---Lower
+¦               ¦   ¦   ¦   ¦   ¦   +---Math
+¦               ¦   ¦   ¦   ¦   ¦   +---NFCQC
+¦               ¦   ¦   ¦   ¦   ¦   +---NFDQC
+¦               ¦   ¦   ¦   ¦   ¦   +---NFKCQC
+¦               ¦   ¦   ¦   ¦   ¦   +---NFKDQC
+¦               ¦   ¦   ¦   ¦   ¦   +---Nt
+¦               ¦   ¦   ¦   ¦   ¦   +---Nv
+¦               ¦   ¦   ¦   ¦   ¦   +---PatSyn
+¦               ¦   ¦   ¦   ¦   ¦   +---PCM
+¦               ¦   ¦   ¦   ¦   ¦   +---Perl
+¦               ¦   ¦   ¦   ¦   ¦   +---QMark
+¦               ¦   ¦   ¦   ¦   ¦   +---SB
+¦               ¦   ¦   ¦   ¦   ¦   +---Sc
+¦               ¦   ¦   ¦   ¦   ¦   +---Scx
+¦               ¦   ¦   ¦   ¦   ¦   +---SD
+¦               ¦   ¦   ¦   ¦   ¦   +---STerm
+¦               ¦   ¦   ¦   ¦   ¦   +---Term
+¦               ¦   ¦   ¦   ¦   ¦   +---UIdeo
+¦               ¦   ¦   ¦   ¦   ¦   +---Upper
+¦               ¦   ¦   ¦   ¦   ¦   +---Vo
+¦               ¦   ¦   ¦   ¦   ¦   +---VS
+¦               ¦   ¦   ¦   ¦   ¦   +---WB
+¦               ¦   ¦   ¦   ¦   ¦   +---XIDC
+¦               ¦   ¦   ¦   ¦   ¦   +---XIDS
+¦               ¦   ¦   ¦   ¦   +---To
+¦               ¦   ¦   ¦   +---User
+¦               ¦   ¦   ¦   +---version
+¦               ¦   ¦   ¦   +---warnings
+¦               ¦   ¦   ¦   +---Win32API
+¦               ¦   ¦   ¦       +---File
+¦               ¦   ¦   +---vendor_perl
+¦               ¦   ¦       +---Authen
+¦               ¦   ¦       ¦   +---SASL
+¦               ¦   ¦       ¦       +---Perl
+¦               ¦   ¦       +---Convert
+¦               ¦   ¦       +---Date
+¦               ¦   ¦       ¦   +---Language
+¦               ¦   ¦       +---Encode
+¦               ¦   ¦       +---Error
+¦               ¦   ¦       +---File
+¦               ¦   ¦       +---HTML
+¦               ¦   ¦       +---HTTP
+¦               ¦   ¦       ¦   +---CookieJar
+¦               ¦   ¦       ¦   +---Cookies
+¦               ¦   ¦       ¦   +---Headers
+¦               ¦   ¦       ¦   +---Request
+¦               ¦   ¦       +---IO
+¦               ¦   ¦       ¦   +---Socket
+¦               ¦   ¦       ¦       +---SSL
+¦               ¦   ¦       +---JSON
+¦               ¦   ¦       ¦   +---backportPP
+¦               ¦   ¦       +---LWP
+¦               ¦   ¦       ¦   +---Authen
+¦               ¦   ¦       ¦   +---Debug
+¦               ¦   ¦       ¦   +---Protocol
+¦               ¦   ¦       +---Mail
+¦               ¦   ¦       ¦   +---Field
+¦               ¦   ¦       ¦   +---Mailer
+¦               ¦   ¦       +---MIME
+¦               ¦   ¦       ¦   +---Decoder
+¦               ¦   ¦       ¦   +---Field
+¦               ¦   ¦       ¦   +---Parser
+¦               ¦   ¦       +---Net
+¦               ¦   ¦       ¦   +---HTTP
+¦               ¦   ¦       ¦   +---SMTP
+¦               ¦   ¦       +---Time
+¦               ¦   ¦       +---Try
+¦               ¦   ¦       +---URI
+¦               ¦   ¦       ¦   +---file
+¦               ¦   ¦       ¦   +---urn
+¦               ¦   ¦       +---WWW
+¦               ¦   ¦           +---RobotRules
+¦               ¦   +---pki
+¦               ¦   ¦   +---ca-trust-legacy
+¦               ¦   ¦   +---ca-trust-source
+¦               ¦   +---tabset
+¦               ¦   +---terminfo
+¦               ¦   ¦   +---63
+¦               ¦   ¦   +---64
+¦               ¦   ¦   +---6d
+¦               ¦   ¦   +---73
+¦               ¦   ¦   +---78
+¦               ¦   +---vim
+¦               ¦       +---vim91
+¦               ¦           +---autoload
+¦               ¦           ¦   +---cargo
+¦               ¦           ¦   +---dist
+¦               ¦           ¦   +---rust
+¦               ¦           ¦   +---xml
+¦               ¦           +---colors
+¦               ¦           ¦   +---lists
+¦               ¦           ¦   +---tools
+¦               ¦           +---compiler
+¦               ¦           +---doc
+¦               ¦           +---ftplugin
+¦               ¦           +---import
+¦               ¦           ¦   +---dist
+¦               ¦           +---indent
+¦               ¦           +---keymap
+¦               ¦           +---lang
+¦               ¦           ¦   +---af
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ca
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---cs
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---cs.cp1250
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---da
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---de
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---en_GB
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---eo
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---es
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---fi
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---fr
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ga
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---hu
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---it
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ja
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ja.euc-jp
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ja.sjis
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ko
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ko.UTF-8
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---lv
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---nb
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---nl
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---no
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---pl
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---pl.cp1250
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---pl.UTF-8
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---pt_BR
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ru
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---ru.cp1251
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---sk
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---sk.cp1250
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---sr
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---sv
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---tr
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---uk
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---uk.cp1251
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---vi
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---zh_CN
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---zh_CN.cp936
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---zh_CN.UTF-8
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---zh_TW
+¦               ¦           ¦   ¦   +---LC_MESSAGES
+¦               ¦           ¦   +---zh_TW.UTF-8
+¦               ¦           ¦       +---LC_MESSAGES
+¦               ¦           +---macros
+¦               ¦           ¦   +---hanoi
+¦               ¦           ¦   +---life
+¦               ¦           ¦   +---maze
+¦               ¦           ¦   +---urm
+¦               ¦           +---pack
+¦               ¦           ¦   +---dist
+¦               ¦           ¦       +---opt
+¦               ¦           ¦           +---cfilter
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---comment
+¦               ¦           ¦           ¦   +---autoload
+¦               ¦           ¦           ¦   +---doc
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---dvorak
+¦               ¦           ¦           ¦   +---dvorak
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---editexisting
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---editorconfig
+¦               ¦           ¦           ¦   +---autoload
+¦               ¦           ¦           ¦   ¦   +---editorconfig_core
+¦               ¦           ¦           ¦   +---doc
+¦               ¦           ¦           ¦   +---ftdetect
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---justify
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---matchit
+¦               ¦           ¦           ¦   +---autoload
+¦               ¦           ¦           ¦   +---doc
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---shellmenu
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---swapmouse
+¦               ¦           ¦           ¦   +---plugin
+¦               ¦           ¦           +---termdebug
+¦               ¦           ¦               +---plugin
+¦               ¦           +---plugin
+¦               ¦           +---print
+¦               ¦           +---spell
+¦               ¦           +---syntax
+¦               ¦           ¦   +---modula2
+¦               ¦           ¦   ¦   +---opt
+¦               ¦           ¦   +---shared
+¦               ¦           +---tools
+¦               ¦           +---tutor
+¦               +---ssl
+¦                   +---certs
+¦                   +---misc
++---Fortnite
+¦   +---.egstore
+¦   ¦   +---Pending
+¦   +---Cloud
+¦   +---Engine
+¦   ¦   +---Binaries
+¦   ¦   ¦   +---ThirdParty
+¦   ¦   ¦   ¦   +---CEF3
+¦   ¦   ¦   ¦   ¦   +---Win64
+¦   ¦   ¦   ¦   ¦       +---Resources
+¦   ¦   ¦   ¦   ¦           +---locales
+¦   ¦   ¦   ¦   ¦           +---swiftshader
+¦   ¦   ¦   ¦   +---DbgHelp
+¦   ¦   ¦   ¦   +---MsQuic
+¦   ¦   ¦   ¦   ¦   +---v220
+¦   ¦   ¦   ¦   ¦       +---win64
+¦   ¦   ¦   ¦   +---NVIDIA
+¦   ¦   ¦   ¦   ¦   +---GeForceNOW
+¦   ¦   ¦   ¦   ¦   ¦   +---Win64
+¦   ¦   ¦   ¦   ¦   +---NVaftermath
+¦   ¦   ¦   ¦   ¦       +---Win64
+¦   ¦   ¦   ¦   +---Ogg
+¦   ¦   ¦   ¦   ¦   +---Win64
+¦   ¦   ¦   ¦   ¦       +---VS2015
+¦   ¦   ¦   ¦   +---Vorbis
+¦   ¦   ¦   ¦   ¦   +---Win64
+¦   ¦   ¦   ¦   ¦       +---VS2015
+¦   ¦   ¦   ¦   +---Windows
+¦   ¦   ¦   ¦       +---WinPixEventRuntime
+¦   ¦   ¦   ¦       ¦   +---x64
+¦   ¦   ¦   ¦       +---XAudio2_9
+¦   ¦   ¦   ¦           +---x64
+¦   ¦   ¦   +---Win64
+¦   ¦   +---Config
+¦   ¦   +---Content
+¦   ¦   ¦   +---Renderer
+¦   ¦   ¦   +---Slate
+¦   ¦   ¦       +---Cursor
+¦   ¦   +---Plugins
+¦   ¦   ¦   +---Amazon
+¦   ¦   ¦   ¦   +---Luna
+¦   ¦   ¦   ¦       +---Binaries
+¦   ¦   ¦   ¦           +---ThirdParty
+¦   ¦   ¦   ¦               +---Win64
+¦   ¦   ¦   +---Experimental
+¦   ¦   ¦   ¦   +---RazerChromaDevices
+¦   ¦   ¦   ¦       +---Binaries
+¦   ¦   ¦   ¦           +---ThirdParty
+¦   ¦   ¦   ¦               +---Win64
+¦   ¦   ¦   +---Runtime
+¦   ¦   ¦       +---ThirdParty
+¦   ¦   ¦           +---Streamline
+¦   ¦   ¦               +---Binaries
+¦   ¦   ¦                   +---ThirdParty
+¦   ¦   ¦                       +---Win64
+¦   ¦   +---Programs
+¦   ¦       +---CrashReportClient
+¦   ¦           +---Content
+¦   ¦               +---Paks
+¦   +---FortniteGame
+¦       +---Binaries
+¦       ¦   +---ThirdParty
+¦       ¦   ¦   +---Discord
+¦       ¦   ¦   ¦   +---Win64
+¦       ¦   ¦   +---NVIDIA
+¦       ¦   ¦   ¦   +---NGX
+¦       ¦   ¦   ¦   ¦   +---Win64
+¦       ¦   ¦   ¦   +---Win64
+¦       ¦   ¦   +---SpeechGraphics
+¦       ¦   ¦       +---Win64
+¦       ¦   +---Win64
+¦       ¦       +---BattlEye
+¦       ¦       ¦   +---Privacy
+¦       ¦       ¦   +---Text
+¦       ¦       +---D3D12
+¦       ¦       +---EasyAntiCheat
+¦       ¦           +---Certificates
+¦       ¦           +---Licenses
+¦       ¦           +---Localization
+¦       +---Content
+¦           +---Legal
+¦           +---PackagedReplays
+¦           +---Paks
+¦           +---Splash
++---HonkaiStarRail
+¦   +---.egstore
+¦   ¦   +---Pending
+¦   +---bearer
+¦   +---games
+¦   ¦   +---Star Rail Games
+¦   ¦       +---AntiCheatExpert
+¦   ¦       ¦   +---InGame
+¦   ¦       ¦       +---x64
+¦   ¦       +---StarRail_Data
+¦   ¦           +---il2cpp_data
+¦   ¦           ¦   +---etc
+¦   ¦           ¦   ¦   +---mono
+¦   ¦           ¦   ¦       +---2.0
+¦   ¦           ¦   ¦       ¦   +---Browsers
+¦   ¦           ¦   ¦       +---4.0
+¦   ¦           ¦   ¦       ¦   +---Browsers
+¦   ¦           ¦   ¦       +---4.5
+¦   ¦           ¦   ¦       ¦   +---Browsers
+¦   ¦           ¦   ¦       +---mconfig
+¦   ¦           ¦   +---Metadata
+¦   ¦           ¦   +---Resources
+¦   ¦           +---Persistent
+¦   ¦           ¦   +---Apm
+¦   ¦           ¦   ¦   +---astrolabe
+¦   ¦           ¦   ¦       +---crashreport
+¦   ¦           ¦   +---Archive
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---Asb
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---Audio
+¦   ¦           ¦   ¦   +---AudioPackage
+¦   ¦           ¦   ¦       +---Windows
+¦   ¦           ¦   ¦           +---English
+¦   ¦           ¦   +---DesignData
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   ¦       +---HPatchBlock
+¦   ¦           ¦   +---IFix
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---Lua
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---Video
+¦   ¦           ¦       +---Windows
+¦   ¦           +---Plugins
+¦   ¦           ¦   +---x86_64
+¦   ¦           ¦       +---locales
+¦   ¦           +---Resources
+¦   ¦           +---SDKCaches
+¦   ¦           ¦   +---telemetry
+¦   ¦           +---StreamingAssets
+¦   ¦           ¦   +---Asb
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---Audio
+¦   ¦           ¦   ¦   +---AudioPackage
+¦   ¦           ¦   ¦       +---Windows
+¦   ¦           ¦   ¦           +---DecodedBanks
+¦   ¦           ¦   ¦           ¦   +---Chinese(PRC)
+¦   ¦           ¦   ¦           ¦   +---English
+¦   ¦           ¦   ¦           +---SFX
+¦   ¦           ¦   +---DesignData
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---Lua
+¦   ¦           ¦   ¦   +---Windows
+¦   ¦           ¦   +---MiHoYoSDKRes
+¦   ¦           ¦   ¦   +---HttpServerResources
+¦   ¦           ¦   ¦   ¦   +---audio
+¦   ¦           ¦   ¦   ¦   +---font
+¦   ¦           ¦   ¦   +---PC
+¦   ¦           ¦   +---NativeConfig
+¦   ¦           ¦   +---Video
+¦   ¦           ¦       +---Windows
+¦   ¦           +---webCaches
+¦   ¦               +---2.25.0.0
+¦   ¦                   +---blob_storage
+¦   ¦                   ¦   +---d947d999-9757-4498-afc3-77b58fb74cef
+¦   ¦                   +---Cache
+¦   ¦                   ¦   +---Cache_Data
+¦   ¦                   +---Code Cache
+¦   ¦                   ¦   +---js
+¦   ¦                   ¦   ¦   +---index-dir
+¦   ¦                   ¦   +---wasm
+¦   ¦                   ¦       +---index-dir
+¦   ¦                   +---databases
+¦   ¦                   +---GPUCache
+¦   ¦                   +---Local Storage
+¦   ¦                   ¦   +---leveldb
+¦   ¦                   +---Network
+¦   ¦                   +---Service Worker
+¦   ¦                   ¦   +---CacheStorage
+¦   ¦                   ¦   ¦   +---4ba1a36e0e2319267da4c547a3c2028c340de73d
+¦   ¦                   ¦   ¦       +---04b07bd5-497f-451d-bcfe-e3c32f32afbc
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---0b53f906-4165-4f77-a77c-b144791e8aaf
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---18333211-b83e-4147-a797-1b1ed7804fe5
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---34f80ef4-43c6-4813-b10f-1563a579fdfc
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---609b728c-0327-4783-9e06-e5d17397a1fe
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---77cf8c09-75a9-4877-b4d4-22eeebee7d9d
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---8282a528-3598-42dc-bad3-3df9d75676aa
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---c1119d78-61d0-43e6-9acd-5f97279bc16e
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---f02ffb0c-178d-4349-a8fe-0a39618bd8bd
+¦   ¦                   ¦   ¦       ¦   +---index-dir
+¦   ¦                   ¦   ¦       +---f9b56158-6223-4c9a-b50b-2bf0df326f7e
+¦   ¦                   ¦   ¦           +---index-dir
+¦   ¦                   ¦   +---Database
+¦   ¦                   ¦   +---ScriptCache
+¦   ¦                   ¦       +---index-dir
+¦   ¦                   +---Session Storage
+¦   +---imageformats
+¦   +---logs
+¦   +---platforms
+¦   +---resources
+¦   ¦   +---locales
+¦   +---styles
++---ZenlessZoneZero Game
+    +---APMCrashReporter
+    +---ZenlessZoneZero_Data
+        +---il2cpp_data
+        ¦   +---etc
+        ¦   ¦   +---mono
+        ¦   ¦       +---4.0
+        ¦   +---Metadata
+        ¦   +---Resources
+        +---Persistent
+        ¦   +---astrolabe
+        ¦   +---Audio
+        ¦   ¦   +---Windows
+        ¦   ¦       +---Full
+        ¦   ¦           +---En
+        ¦   +---Blocks
+        ¦   +---Bundles
+        ¦   +---LocalStorage
+        ¦   +---LogDir
+        ¦   +---Video
+        ¦       +---HD
+        ¦           +---Battle
+        ¦           +---Hollow
+        ¦           ¦   +---Event
+        ¦           ¦       +---Story
+        ¦           +---Procedure
+        +---Plugins
+        ¦   +---x86_64
+        ¦       +---locales
+        +---Resources
+        +---SDKCaches
+        ¦   +---telemetry
+        ¦   +---webview
+        ¦       +---browser
+        ¦       ¦   +---astrolabe
+        ¦       ¦       +---crashes
+        ¦       ¦       +---crashreport
+        ¦       +---gpu-process
+        ¦       ¦   +---astrolabe
+        ¦       +---renderer
+        ¦       ¦   +---astrolabe
+        ¦       +---utility
+        ¦           +---astrolabe
+        +---StreamingAssets
+        ¦   +---Audio
+        ¦   ¦   +---Windows
+        ¦   ¦       +---Full
+        ¦   ¦       ¦   +---Cn
+        ¦   ¦       ¦   +---En
+        ¦   ¦       ¦   +---Jp
+        ¦   ¦       ¦   +---Kr
+        ¦   ¦       +---Min
+        ¦   +---Blocks
+        ¦   +---MiHoYoSDKRes
+        ¦   ¦   +---HttpServerResources
+        ¦   ¦   ¦   +---font
+        ¦   ¦   +---PC
+        ¦   +---Video
+        ¦       +---HD
+        ¦           +---AllroundGeneralTutorial
+        ¦           ¦   +---Hollow
+        ¦           ¦   +---MainCityShops
+        ¦           ¦   +---TrustTutorial
+        ¦           +---Arcade
+        ¦           ¦   +---ArcadeScreen
+        ¦           ¦   +---Guide
+        ¦           ¦   +---SoulHoundsIII
+        ¦           +---Battle
+        ¦           +---CoverMap
+        ¦           ¦   +---Metro
+        ¦           +---CreateRole
+        ¦           +---DailyChallenge
+        ¦           +---Gacha
+        ¦           +---Hollow
+        ¦           ¦   +---AnimFlow
+        ¦           ¦   +---Avatar
+        ¦           ¦   ¦   +---Chat
+        ¦           ¦   ¦   +---Partner
+        ¦           ¦   ¦   +---Telephone
+        ¦           ¦   +---Background
+        ¦           ¦   ¦   +---Boss
+        ¦           ¦   ¦   +---ConstructionSite
+        ¦           ¦   ¦   +---GoldenWeek
+        ¦           ¦   ¦   +---Metro
+        ¦           ¦   ¦   +---Skyscraper
+        ¦           ¦   ¦   +---Special
+        ¦           ¦   ¦   +---Test
+        ¦           ¦   ¦   +---Zero
+        ¦           ¦   +---BigTvGame
+        ¦           ¦   +---BigWorld
+        ¦           ¦   +---Event
+        ¦           ¦       +---Actor
+        ¦           ¦       +---BigWorld
+        ¦           ¦       +---Clue
+        ¦           ¦       +---Fairy
+        ¦           ¦       +---General
+        ¦           ¦       ¦   +---JoyStick
+        ¦           ¦       +---HollowItem
+        ¦           ¦       +---Metro
+        ¦           ¦       +---RPGLike
+        ¦           ¦       +---Story
+        ¦           ¦       +---Zero
+        ¦           +---InterKnotPost
+        ¦           +---Launch
+        ¦           +---Login
+        ¦           +---LoginBangumi
+        ¦           +---MainCity
+        ¦           ¦   +---ArcadeGame
+        ¦           ¦   +---BoxGalaxy
+        ¦           ¦   +---Car
+        ¦           ¦   ¦   +---Device_Vehicle_Car_02
+        ¦           ¦   +---FortuneSquare
+        ¦           ¦   +---HelloCar
+        ¦           ¦   +---Studio
+        ¦           +---MainStory
+        ¦           ¦   +---Chapter
+        ¦           ¦   ¦   +---Chinese
+        ¦           ¦   ¦   +---CHS
+        ¦           ¦   ¦   +---CHT
+        ¦           ¦   ¦   +---DE
+        ¦           ¦   ¦   +---EN
+        ¦           ¦   ¦   +---English
+        ¦           ¦   ¦   +---ES
+        ¦           ¦   ¦   +---FR
+        ¦           ¦   ¦   +---ID
+        ¦           ¦   ¦   +---Indonesia
+        ¦           ¦   ¦   +---JA
+        ¦           ¦   ¦   +---Japanese
+        ¦           ¦   ¦   +---KO
+        ¦           ¦   ¦   +---Korean
+        ¦           ¦   ¦   +---PT
+        ¦           ¦   ¦   +---RU
+        ¦           ¦   ¦   +---Spanish
+        ¦           ¦   ¦   +---TH
+        ¦           ¦   ¦   +---ThaiLanguage
+        ¦           ¦   ¦   +---TraditionalChinese
+        ¦           ¦   ¦   +---VI
+        ¦           ¦   +---PageVideo
+        ¦           ¦       +---Chapter00
+        ¦           ¦       +---Chapter01
+        ¦           ¦       +---Chapter02
+        ¦           ¦       +---Chapter03
+        ¦           ¦       +---Chapter1_5
+        ¦           ¦       +---Chapter2_5
+        ¦           ¦       +---ChapterPersonal
+        ¦           +---Procedure
+        ¦           +---Transfer
+        ¦           ¦   +---BattleLoading
+        ¦           ¦   ¦   +---ConstructionSite
+        ¦           ¦   ¦   +---Metro
+        ¦           ¦   ¦   +---Skyscraper
+        ¦           ¦   ¦   +---Zero
+        ¦           ¦   +---General
+        ¦           ¦   +---HollowLoading
+        ¦           ¦   ¦   +---ConstructionSite
+        ¦           ¦   ¦   +---GoldenWeek
+        ¦           ¦   ¦   +---Metro
+        ¦           ¦   ¦   +---Skyscraper
+        ¦           ¦   ¦   +---Zero
+        ¦           ¦   +---HollowSwitchLayer
+        ¦           ¦   ¦   +---ConstructionSite
+        ¦           ¦   ¦   +---Metro
+        ¦           ¦   ¦   +---Skyscraper
+        ¦           ¦   ¦   +---Zero
+        ¦           ¦   +---Metro
+        ¦           ¦       +---BattleLoading
+        ¦           +---Weapon
+        ¦           +---WorldLevel
+        ¦           +---Yorozuya
+        ¦               +---ConstructionSite
+        ¦               +---Metro
+        ¦               +---Rally
+        ¦               +---Skyscraper
+        ¦               +---Zero
+        +---webCaches
+            +---2.23.0.0
+                +---blob_storage
+                ¦   +---df8e131d-3cb3-46d5-8961-cdcf9fd06f05
+                +---Cache
+                ¦   +---Cache_Data
+                +---Code Cache
+                ¦   +---js
+                ¦   ¦   +---index-dir
+                ¦   +---wasm
+                ¦       +---index-dir
+                +---databases
+                +---GPUCache
+                +---Local Storage
+                ¦   +---leveldb
+                +---Network
+                +---Service Worker
+                ¦   +---CacheStorage
+                ¦   ¦   +---4ba1a36e0e2319267da4c547a3c2028c340de73d
+                ¦   ¦       +---17130c90-c951-4a99-936f-9de866e2e4ab
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---4588d4be-6172-4850-b8c5-206bcb4bd925
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---840595f7-b547-40e8-b316-dcbc63ff5ead
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---a279a3e3-e708-43a0-8e04-1edb1b955263
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---aea8be33-dacb-4ca9-8b50-8badb0573667
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---b40161f7-6c3d-4494-a510-c987902f5f72
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---cc2770d0-23ed-4809-8784-595ea84106d8
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---ddba6f7b-6e1c-4ae8-a05a-05f76f20c7f1
+                ¦   ¦       ¦   +---index-dir
+                ¦   ¦       +---f47257f1-1b0c-4c7a-aa0e-ac5964c8503f
+                ¦   ¦           +---index-dir
+                ¦   +---Database
+                ¦   +---ScriptCache
+                ¦       +---index-dir
+                +---Session Storage
